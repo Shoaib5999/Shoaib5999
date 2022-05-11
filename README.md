@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoaib5999
 - 👀 I’m interested in coding and programing
-- 🌱 I’m currently learning c language and python
+- 🌱 I know web development , c/c++ , javascript , git/github
 - 💞️ I’m looking to collaborate on coding with c and python
 
 
