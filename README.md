@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoaib5999
 - 👀 I’m interested in coding and programing
-- 🌱 I know web development , c/c++ , javascript , git/github
+- 🌱 I know web development , java + dsa , javascript , git/github
 - 💞️ I’m looking to collaborate on web development project
 
 
