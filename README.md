@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @Shoaib5999
-- 🌱 I am a full stack web developer(MERN),
-- 💞️ My key skills are - Reactjs,React Native,java+Dsa,Node,Express,Mongodb,Postman,Javascript,NodeJs,Redux,Bootstrap,Html+css
-- ✨ I am a web developer and UX designer with a BCA degree from Marwari College Ranchi. I have experience working on MERN stack projects
-<!---
-Shoaib5999/Shoaib5999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here’s an updated and polished version of your GitHub profile README:  
+
+---
+
+# 👋 Hi, I’m Shoaib Akram  
+
+🚀 **Full-Stack Developer (MERN) | UI/UX Enthusiast**  
+
+💡 **About Me:**  
+I am a passionate **MERN stack developer** with a strong focus on building scalable web applications and intuitive user experiences. With a **BCA degree from Marwari College, Ranchi**, I specialize in crafting seamless frontend interfaces and efficient backend architectures.  
+
+💼 **Tech Stack:**  
+- **Frontend:** React.js, React Native, Redux, Tailwind CSS, Bootstrap, HTML, CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Other Tools:** Postman, JavaScript, Firebase, Cloud Firestore  
+- **Additional Skills:** Java + DSA, UX/UI Design  
+
+🌱 **Currently Learning:** Advanced Ant Design, Charting Libraries (Recharts, Chart.js, ApexCharts), and Performance Optimization in React.  
+
+📫 **Connect with me:**  
+- GitHub: [@Shoaib5999](https://github.com/Shoaib5999)  
+- LinkedIn: (https://www.linkedin.com/in/shoaib-akram-09a368205/)  
+- Portfolio: (https://portfolio-pro-fjaz.vercel.app/)  
+
+✨ *Passionate about coding, problem-solving, and continuous learning!*  
+
+---
+
+This version makes your profile more professional, updated, and engaging. Let me know if you want any further tweaks! 🚀
